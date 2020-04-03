@@ -1,6 +1,6 @@
 # Folding@home image
 
-https://marketplace.digitalocean.com/apps/foldinghome
+https://marketplace.digitalocean.com/apps/folding-home
 
 ## Setup
 Install [packer](https://www.packer.io/intro/getting-started/install.html)
